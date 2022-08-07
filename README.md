@@ -1,5 +1,7 @@
 # Adaptive Local Implicit Image Function for Arbitrary-scale Super-resolution
-This is the official implementation of our paper [Adaptive Local Implicit Image Function for Arbitrary-scale Super-resolution](), accepted by the International Conference on Image Processing (ICIP), 2022. The codes will be released soon.
+This is the official implementation of our paper [Adaptive Local Implicit Image Function for Arbitrary-scale Super-resolution](), accepted by the International Conference on Image Processing (ICIP), 2022. 
+
+The codes will be released soon.
 
 
 
