@@ -8,7 +8,7 @@ If our work or this repo is useful for your research, please cite our paper as f
 ```
 @inproceedings{li2022adaptive,
   title={Adaptive Local Implicit Image Function for Arbitrary-scale Super-resolution},
-  author={Li, Hongwei and Dai, Tao and Li, Yiming and and Zou, Xueyi, Xia, Shu-Tao},
+  author={Li, Hongwei and Dai, Tao and Li, Yiming and and Zou, Xueyi and Xia, Shu-Tao},
   booktitle={ICIP},
   year={2022}
 }
