@@ -27,7 +27,7 @@ This is the official implementation of our paper [Adaptive Local Implicit Image 
 
 ### 4. Results
 
-- Some of [the test results can be downloaded.](https://pan.baidu.com/s/1j0ZgfbGKyYZqsSCLOb3nUg) Password:w3da
+- Some of the test results can be downloaded. ( [Google Drive](https://drive.google.com/drive/folders/1lympRcAHDVh7wDtXS9bVpWKFYMoPWT7x?usp=sharing) )
 
 ### 5. Citation
 
